@@ -1,1 +1,3 @@
 # Mutt-or-Mop
+
+In this project, we tackle the intriguing "Komondor dog or mop?" computer vision challenge, which bears a strong similarity to the more commonly known "Blueberry muffin or Chihuahua" challenge. We approach this as a binary classification task using an image dataset containing both Komondor dogs and household cotton mops. We show that our 13-layer convolutional neural network is able to achieve strong performance, scoring an accuracy of 0.8676 on the test dataset. We discuss avenues for enhancing our model's performance, such as significantly expanding our dataset and leveraging the power of transfer learning. 
